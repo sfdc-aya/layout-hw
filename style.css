@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+}å
+.main-container{
+    margin: 30px 40px;
+}
+.left-container, .right-container{
+    border: 5px solid red;
+    height:600px;
+    box-shadow: 5px 3px 20px 3px gray;
+}
+.left-conatiner{
+    width:60%;
+    float: left;
+    border: solid 5px red;
+}
+.right-container{
+    widows: 30%;
+    float: right;
+}
+img{
+   width: 100%;
+}
+.img-wrapper{
+    margin:0;
+}
+.text-block{
+    width: 50%;
+    margin: auto;
+    border: 1px solid blue;
+}
+input[type="submit"]{
+    width:100%;
+}
+.box-left, .box-right, .box-center{
+    width:30%;
+    float: left;
+    margin: 15px;
+}
+.bottom-container{
+    margin: 30px -15px;
+} 
+section{
+    border: solid 5px red;
+}
